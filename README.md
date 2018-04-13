@@ -27,6 +27,11 @@ var nj = require('numjs');
 ...
 ```
 
+### via CDN
+```html
+<script src="https://cdn.jsdelivr.net/gh/nicolaspanel/numjs@0.15.1/dist/numjs.min.js"></script>
+```
+
 ### on the browser
 ```sh
 bower install numjs
